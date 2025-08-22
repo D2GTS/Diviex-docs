@@ -1,8 +1,15 @@
 <!DOCTYPE html>
-<html>
-  <body>
-    <h2>Diviex Troubleshooting</h2>
-    <a href="Diviex-Troubleshooting.docx">Download the .docx file</a>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Diviex Troubleshooting</title>
+</head>
+<body>
+  <h1>Diviex Troubleshooting</h1>
+  <p>
+    <a href="Diviex-Troubleshooting.docx" download>
+      📄 Download Diviex-Troubleshooting.docx
+    </a>
+  </p>
+</body>
 </html>
-
