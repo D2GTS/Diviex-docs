@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head><title>Diviex Docs</title></head>
-<body>
-  <h1>Diviex Troubleshooting Document</h1>
-  <p><a href="Diviex-Troubleshooting.docx">Download Word Doc</a></p>
-</body>
+  <body>
+    <h2>Diviex Troubleshooting</h2>
+    <a href="Diviex-Troubleshooting.docx">Download the .docx file</a>
+  </body>
 </html>
+
